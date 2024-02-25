@@ -12,7 +12,7 @@ pip install pyfiglet
 ```
 pip install rainbowtext
 ```
-pip install time
+pip install proxybroker
 ```
 
 # To start IG-REPORT:
